@@ -1,0 +1,10 @@
+body {
+  background-color: lightblue;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 24;
+  font-family: arial;
+  color: red;
+}
